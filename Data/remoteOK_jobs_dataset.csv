@@ -1,0 +1,117 @@
+Category,Job Title,Company,Salary Range,Required Skills,Experience Level,Work Type,Country,Source
+Software Development,Senior Frontend Developer,Sanctuary Computer,$80k - $120k,"api, backend, CSS, ecommerce, frontend, fullstack, graphql, postgresql, redux, security, seo, shopify, open source, paas, product management, documentation, mentoring, Typescript , Redis, web applications, cypress, data visualization, firebase, IoT, engineering management, runtime, responsive, prismic, testing, next.js, CMS, jest, REST, web sockets, performance optimization",Mid,Remote,"LATAM, Asia",Remotive
+Software Development,Fullstack Developer (US - ET),Chooose,Not specified,"api, azure, fullstack, python, react, saas, AI/ML, project management, documentation, Typescript , computer science, diversity, insurance",Entry,Remote,USA,Remotive
+All others,Online Data Analyst (United States/Spanish speakers),TELUS Digital,Not specified,"go, social media, AI/ML, research, diversity",Mid,Remote,USA,Remotive
+Writing,Freelance Writer,IAPWE,$50-$75 /hour,REST,Senior,Remote,Worldwide,Remotive
+Writing,Copywriter,Coalition Technologies ,$20k -$35k,"accounting, excel, research, data analysis, bookkeeping, google sheets, quickbooks, data entry, insurance, G Suite",Senior,Remote,Worldwide,Remotive
+Customer Service,Customer Success Manager EMEA & APAC,Crisp,$55k - $65k,"saas, AI/ML, automation, CRO, data analysis, partnerships, onboarding, troubleshooting, lever",Mid,Remote,"EMEA, APAC",Remotive
+Customer Service,Customer Success Team Lead (German Speaking),Filestage,Not specified,"react, hardware, account management, onboarding, startup, risk management, team lead, travel, REST",Entry,Remote,"Europe, EMEA",Remotive
+Customer Service,Technical Support Operator,KnownHost,$30k - $40k,"apache, drupal, magento, perl, php, python, ruby/rails, wordpress, bash, dns, web hosting, helpdesk, MySQL, technical support, chat, troubleshooting, Linux/Unix, shell, REST, insurance",Mid,Remote,USA,Remotive
+Project Management,Junior Project Coordinator,C4Media Inc.,Not specified,"html, Figma, research, onboarding, data entry, infrastructure, travel",Mid,Remote,"Brazil, Argentina",Remotive
+All others,Content Reviewer,TELUS Digital,14$/hour,"android, go, ios, social media, AI/ML, diversity",Mid,Remote,USA,Remotive
+DevOps / Sysadmin,Senior DevOps Engineer,Marketerx,$130k - $150k,"AWS, cloud, docker, kubernetes, security, SRE, AI/ML, CI/CD, terraform, startup, ansible, infrastructure",Mid,Remote,USA,Remotive
+Customer Service,Customer Retention Manager,AutoHDR,Not specified,"AI/ML, editing, startup",Mid,Remote,USA,Remotive
+Customer Service,Customer Support Representative,AutoHDR,Not specified,"saas, AI/ML, editing, technical support, onboarding, responsive",Senior,Remote,USA,Remotive
+Software Development,Senior Independent Software Developer,A.Team,$90 - $150 /hour,"go, wordpress, chat, apple, testing, catalyst",Senior,Remote,"Americas, Europe, Israel",Remotive
+Software Development,Senior Independent AI Engineer / Architect,A.Team,$120 - $170 /hour,"go, UI/UX, wordpress, chat, apple, testing, catalyst",Mid,Remote,"Americas, Europe, Israel",Remotive
+Software Development,Tech Lead Full-Stack Rails Engineer,Mitre Media,$170k - $200k,"api, CSS, docker, elasticsearch, fullstack, html, javascript, kubernetes, postgresql, react, ror, ruby/rails, AI/ML, CAD, advertising, Redis, ES6, web applications, MySQL, NLP, fintech, Micro services, github, system architecture",Senior,Remote,"USA, Canada, USA timezones",Remotive
+Software Development,Tech Lead Databricks Data Engineer,Mitre Media,$160k - $180k,"apache, api, AWS, big data, cloud, java, python, scala, sql, AI/ML, documentation, CAD, CI/CD, analytics, advertising, spark, tableau, GCP, ETL, data engineering, SOLID, fintech, Micro services, backbone, github",Entry,Remote,"USA, Canada, USA timezones",Remotive
+Software Development,Full-Stack Developer,ELECTE S.R.L.,"$33,6k–$50,4k","api, backend, frontend, fullstack, javascript, postgresql, python, sql, AI/ML, CI/CD, analytics, Typescript , SOLID, serverless, infrastructure, github, CMS",Senior,Remote,Worldwide,Remotive
+Software Development,Sr. Firmware Engineer,Sanctuary Computer,$150k - $200k,"AWS, C, C++, cloud, UI/UX, open source, product management, hardware, IoT, startup, kernel, Linux/Unix, infrastructure, service design",Entry,Remote,Worldwide,Remotive
+Marketing,Office Assistant,Coalition Technologies ,"$31,2k- $52k","CSS, excel, frontend, git, html, illustrator, magento, photoshop, php, shopify, wordpress, MySQL, startup, responsive, themes, bootstrap, insurance, jQuery, Ajax",Mid,Remote,Worldwide,Remotive
+N/A,Infrastructure &amp; Capital Projects Procurement Specialist ANS,"Accenture Infrastructure &amp; Capital Projects, LLC",Not specified,"technical, recruiter, financial, finance, microsoft, legal",Senior,Remote,Remote,RemoteOK
+N/A,Senior Security Infrastructure Engineer,Sezzle,Not specified,"security, developer, fintech, cloud, senior, sales, engineer, engineering, digital nomad",Mid,Remote,Brazil,RemoteOK
+N/A,Finance Intern,Presence,Not specified,"design, support, controller, travel, manager, accounting, finance, management, senior, health, internship, part-time, digital nomad",Mid,Remote,,RemoteOK
+N/A,Technical Support Specialist,Great Minds,Not specified,"students, technical, support, growth, banking, math, strategy, management, content, sales, educational",Senior,Remote,,RemoteOK
+N/A,Licensed Master Social Worker,Brave Health,Not specified,"recruiter, support, growth, video, education, senior, medical, health, healthcare",Senior,Remote,,RemoteOK
+N/A,Senior Director Field Engineering,Smartsheet,Not specified,"director, technical, support, management, senior, sales, engineering",Senior,Remote,,RemoteOK
+N/A,Product Designer,Sharebite,Not specified,"design, designer, ui, engineering, digital nomad",Senior,Remote,Remote,RemoteOK
+N/A,Product Manager,Sharebite,Not specified,"manager, saas, growth, strategy, management, lead",Senior,Remote,Remote,RemoteOK
+N/A,Creative Director,Lumimeds,Not specified,"director, design, management, marketing, e-commerce, digital nomad",Senior,Remote,US-Based,RemoteOK
+N/A,National Account Manager Footwear,ARC&#39;TERYX,Not specified,"manager, support, growth, travel, education, math, lead, marketing, analytics, sales, health",Mid,Remote,"New York, NY",RemoteOK
+N/A,E01 HR Compliance Specialist IV,EXPANSIA,Not specified,"hr, design, security, training, support, growth, management, senior, operations, operational, legal, health, digital nomad",Mid,Remote,Remote,RemoteOK
+N/A,IT Specialist II,Makpar,Not specified,"training, consulting, technical, support, software, cloud, microsoft, operations, operational, legal",Senior,Remote,,RemoteOK
+N/A,Senior Client Data &amp; Analytics Lead,Kraken ,Not specified,"system, manager, leader, lead, senior, analytics, full-time",Senior,Remote,,RemoteOK
+N/A,Licensed Professional Counselor,Pelago,Not specified,"support, growth, c, health",Senior,Remote,,RemoteOK
+N/A,Senior Emulation Engineer,EnCharge AI,Not specified,"design, support, software, leader, senior, engineer, digital nomad",Entry,Remote,India,RemoteOK
+N/A,Mixed Signal IC Layout Design Engineer,Tenstorrent,Not specified,"design, software, reliability, engineer, digital nomad",Entry,Remote,North America,RemoteOK
+N/A,Senior Technical Sourcer Software,Anduril Industries,Not specified,"software, system, 3d, technical, sourcer, support, growth, senior, recruitment",Entry,Remote,,RemoteOK
+N/A,Lead Instructor Applied AI Engineering Summer 2026,CodePath,Not specified,"instructor, students, training, technical, support, manager, education, lead, senior, engineering",Senior,Remote,,RemoteOK
+N/A,Principal Design System Designer,Twin Health,Not specified,"design, system, designer, happiness, investment, medical, health, digital nomad",Mid,Remote,USA,RemoteOK
+N/A,Software Engineering Manager I Mobile,Stone,Not specified,"software, manager, mobile, engineering",Mid,Remote,Remoto,RemoteOK
+N/A,Team Lead Corporate Accounting,Lightspeed Commerce,Not specified,"accounting, system, technical, support, accountant, financial, finance, leader, management, lead",Mid,Remote,Montreal,RemoteOK
+N/A,Senior Data Engineer,Thoughtworks,Not specified,"design, security, technical, support, software, test, code, senior, engineer, engineering, digital nomad",Senior,Remote,Chicago,RemoteOK
+N/A,Solutions Architect,Smartsheet,Not specified,"architect, technical, testing, api, management",Entry,Remote,,RemoteOK
+N/A,Senior Implementation Consultant,Branch,Not specified,"consultant, technical, voice, manager, financial, senior, operational",Senior,Remote,,RemoteOK
+N/A,Senior Backend Engineer MS050KA,Coderio,Not specified,"serverless, node.js, api, senior, engineer, engineering, backend",Entry,Remote,,RemoteOK
+N/A,Intermediate Gameplay Software Engineer,Blackbird Interactive,Not specified,"software, content, engineer",Entry,Remote,Vancouver,RemoteOK
+N/A,Manager Product Development,C1,Not specified,"manager, design, saas, security, technical, support, developer, growth, lead, excel, engineering, digital nomad",Entry,Remote,San Francisco,RemoteOK
+N/A,Staff Engineer Digital Lending,OakNorth,Not specified,"saas, react, security, technical, support, testing, test, growth, devops, financial, bank, cloud, lead, analytics, go, engineer, engineering",Senior,Remote,London,RemoteOK
+N/A,Director of Security Engineering,C1,Not specified,"security, director, design, saas, technical, software, cloud, lead, sales, healthcare, engineering, executive, digital nomad",Mid,Remote,Portland,RemoteOK
+N/A,Sales Development Representative,UpGuard,Not specified,"saas, security, support, software, management, marketing, sales",Senior,Remote,,RemoteOK
+N/A,Alumni Relationship Manager Casablanca,ALX Africa,Not specified,"manager, students, training, software",Senior,Remote,Casablanca,RemoteOK
+N/A,Benefits Manager,"Instructure, Inc.",Not specified,"manager, system, support, testing, education, strategy, lead, senior, operations, excel, legal, go, health, full-time",Senior,Remote,,RemoteOK
+N/A,Staff Software Engineer CRM LATAM,Luxury Presence,Not specified,"software, design, saas, system, founder, ceo, technical, growth, code, web, c, seo, leader, lead, senior, marketing, engineer, engineering, executive, digital nomad",Entry,Remote,Latin America,RemoteOK
+N/A,Payroll Operations and Systems Manager,Arbor Education,Not specified,"manager, payroll, design, system, security, technical, support, software, financial, education, strategy, management, lead, operations, operational, sales, reliability, digital nomad",Entry,Remote,,RemoteOK
+N/A,User Acquisition Specialist,Hyperlab,Not specified,"game, gaming, technical, growth, mobile, management, marketing, health, recruitment",Entry,Remote,,RemoteOK
+N/A,Senior front end developer,Expatfile.tax,Not specified,front end,Entry,Remote,,RemoteOK
+N/A,Crypto Trader,Fox GLobal Assets,Not specified,"other, crypto, finance, education, blockchain, defi, web3, part time, ops, junior, legal, stats",Entry,Remote,,RemoteOK
+N/A,Product Manager Data Management &amp; Platform,HHAeXchange,Not specified,"manager, training, technical, supervisor, support, financial, management, operations, analytics, health, healthcare, engineering",Mid,Remote,United States,RemoteOK
+N/A,Client Support Specialist,TrueML,Not specified,"support, software, financial, microsoft, operational",Senior,Remote,Remote in USA,RemoteOK
+N/A,English Contract Attorney,"Contact Government Services, LLC",Not specified,"support, analyst, legal, non tech",Entry,Remote,,RemoteOK
+N/A,Sales Development Representative,Pushpay,Not specified,sales,Mid,Remote,,RemoteOK
+N/A,Fraud Waste and Abuse Data Analyst,HHAeXchange,Not specified,"analyst, design, embedded, technical, supervisor, support, coder, operations, operational, analytics, health, healthcare, engineering, digital nomad",Senior,Remote,United States,RemoteOK
+N/A,Regional Manager,Clearway Energy,Not specified,"manager, support, management, senior, operational, reliability",Mid,Remote,,RemoteOK
+N/A,RevOps AI Analyst Intern,Actian Corporation,Not specified,"analyst, design, salesforce, technical, support, testing, travel, strategy, management, lead, junior, operations, analytics, sales, reliability, executive, internship, digital nomad",Mid,Remote,US-Remote,RemoteOK
+N/A,Associate Forward Deployed Engineer,Symmetry Systems,Not specified,"saas, security, training, technical, code, cloud, management, lead, operations, operational, excel, sales, go, engineer, executive",Senior,Remote,Remote,RemoteOK
+N/A,Senior Site Civil Engineer Land Development,"ms consultants, inc.",Not specified,"design, 3d, consulting, support, software, management, senior, health, engineer, engineering, full-time, digital nomad",Entry,Remote,,RemoteOK
+N/A,Senior UX UI designer,GoMining,Not specified,"ui, ux, design, designer, support, developer, web, mobile, senior, marketing, digital nomad",Entry,Remote,,RemoteOK
+N/A,Legal Counsel AI Trainer Freelance 8 20 hrs week,10x Team,Not specified,"trainer, consulting, test, legal, non tech",Mid,Remote,Bucharest,RemoteOK
+N/A,Senior Sales Development Representative,Huzzle,Not specified,"saas, system, support, testing, lead, senior, sales, engineering, full-time",Senior,Remote,,RemoteOK
+N/A,Website Maintenance,CrewBloom,Not specified,"system, technical, support, seo, recruiting",Mid,Remote,,RemoteOK
+N/A,Lead Consultant Public Sector,Celonis,Not specified,"consultant, saas, consulting, technical, support, leader, lead",Entry,Remote,Washington DC,RemoteOK
+N/A,Product Manager Energy Storage Controls & Telemetry,Verse,Not specified,"manager, software, travel, cloud, operations, operational",Senior,Remote,"San Francisco, CA",RemoteOK
+N/A,Sales Development Representative,Huzzle,Not specified,"salesforce, training, growth, lead, marketing, sales",Entry,Remote,,RemoteOK
+N/A,Senior Strategist Future of Work & AI Readiness,American Institutes for Research,Not specified,"design, system, strategist, support, senior, digital nomad",Senior,Remote,,RemoteOK
+N/A,Customs Compliance Consultant,Reachdesk Ltd,Not specified,"consultant, saas, hr, support",Mid,Remote,London,RemoteOK
+N/A,Senior Backend Engineer HyperDX,ClickHouse,Not specified,"developer, cloud, senior, engineer, backend, digital nomad",Senior,Remote,United States,RemoteOK
+N/A,Strategic Core Account Executive CPG Databricks,Databricks,Not specified,executive,Mid,Remote,Ohio,RemoteOK
+N/A,Intermediate Full Stack Engineer,Runn,Not specified,"technical, engineer, dev, full time, saas, web dev, front end",Entry,Remote,,RemoteOK
+N/A,Senior Full Stack Engineer,Runn,Not specified,"technical, engineer, senior, dev, full time, saas, web dev, front end",Mid,Remote,,RemoteOK
+N/A,Banner Consultant Student Accounts Receivable,Strata Information Group,Not specified,"consultant, embedded, technical, leader, operational",Mid,Remote,Remote,RemoteOK
+N/A,Accounting Intern,SpecterOps,Not specified,"accounting, students, internship",Entry,Remote,,RemoteOK
+N/A,Senior Engagement Manager,Medallion,Not specified,"manager, salesforce, management, senior, operations, healthcare",Senior,Remote,Remote,RemoteOK
+N/A,Forward deployed Engineer LatAm,Clara,Not specified,"technical, support, software, travel, financial, operations, operational, engineer, engineering",Senior,Remote,Latin America,RemoteOK
+N/A,Internship Marketing Summer 2026,Concentric,Not specified,"embedded, security, training, consultancy, management, marketing, executive, internship, non tech",Entry,Remote,Seattle,RemoteOK
+N/A,Senior Software Engineer,Sysdig,Not specified,"software, design, security, support, testing, code, cloud, lead, senior, operational, go, health, engineer, engineering, backend, digital nomad",Entry,Remote,Bangalore,RemoteOK
+N/A,Lithuanian Localization QA Tester Proofreader,Welo Global,Not specified,"tester, training, technical, testing, test, qa, mobile, content",Mid,Remote,,RemoteOK
+N/A,Call Centre Manager,Huzzle,Not specified,"manager, technical, support, qa, microsoft, management, lead, operations, operational, excel, sales, full-time",Entry,Remote,,RemoteOK
+N/A,Junior Crypto Analyst & Trader,WhiteBridge-Ltd,Not specified,"finance, crypto, education, junior, analyst, web3, blockchain, defi, ethereum, bitcoin, other, virtual assistant, exec",Senior,Remote,,RemoteOK
+N/A,Trading Technology Engineer,BitMEX,Not specified,"crypto, cryptocurrency, security, engineer",Mid,Remote,Asia,RemoteOK
+N/A,Manager Deal Desk &amp; Order Management,Doxel,Not specified,"manager, design, system, support, software, growth, accounting, financial, finance, management, operational, legal, sales, health, executive, digital nomad",Entry,Remote,Remote,RemoteOK
+N/A,Associate Payroll & Billing Specialist,G-P,Not specified,"payroll, growth, management",Mid,Remote,India,RemoteOK
+N/A,Senior Software Engineer,PlayOn,Not specified,"software, senior, engineer",Entry,Remote,,RemoteOK
+N/A,Payments &amp; Billing Operations Analyst,Automatiq,Not specified,"analyst, salesforce, system, training, technical, support, software, growth, manager, finance, management, operations, operational",Senior,Remote,Remote,RemoteOK
+N/A,Software Engineer,Prove,Not specified,"software, security, engineer",Mid,Remote,Dublin,RemoteOK
+N/A,Sales Operations Project Manager,Xsolla,Not specified,"manager, design, training, game, gaming, support, financial, video, fintech, management, operations, operational, sales, educational, executive, digital nomad",Entry,Remote,,RemoteOK
+N/A,Biology AI Training Expert,Anyone AI,Not specified,"training, python, technical, biology",Senior,Remote,Amsterdam ,RemoteOK
+N/A,Data Analyst,World Golf Tour (WGT),Not specified,"analyst, security, python, game, technical, support, software, leader, excel, analytics",Mid,Remote,San Francisco,RemoteOK
+N/A,Manager Site Contracts Management,Precision Medicine Group,Not specified,"manager, support, finance, management, non tech",Mid,Remote,Serbia,RemoteOK
+N/A,Bilingual Customer Success Manager,Acuity Insights,Not specified,"manager, saas, salesforce, embedded, recruiter, support, test, growth, travel, video, education, leader, go, health, engineering",Entry,Remote,,RemoteOK
+N/A,People Operations Manager,CharterUP,Not specified,"manager, system, growth, operations",Mid,Remote,"Austin, TX",RemoteOK
+N/A,Director of Product Marketing,Medallion,Not specified,"director, salesforce, strategy, lead, operations, marketing, healthcare, non tech",Entry,Remote,,RemoteOK
+N/A,Operations Project Manager,Xsolla,Not specified,"manager, training, game, gaming, support, financial, video, fintech, management, operations, operational, educational, non tech",Senior,Remote,,RemoteOK
+N/A,WordPress Developer,Data Group,Not specified,dev,Mid,Remote,,RemoteOK
+N/A,Sales Development Representative,RTB House,Not specified,"leader, strategy, sales",Senior,Remote,Germany,RemoteOK
+N/A,Account Executive Enterprise,Glia,Not specified,"saas, growth, voice, financial, leader, strategy, sales, executive",Senior,Remote,,RemoteOK
+N/A,Platform Administrator,SharkNinja,Not specified,"design, amazon, system, support, growth, devops, cloud, administrator, digital nomad",Mid,Remote,,RemoteOK
+N/A,Full Cycle Recruiter Sourcing Specialist,Huzzle,Not specified,"technical, recruiter, management, recruitment",Mid,Remote,,RemoteOK
+N/A,Project Coordinator Pharmacy Benefit Management Procurements,Pharmaceutical Strategies Group LLC,Not specified,"coordinator, support, growth, manager, microsoft, management",Entry,Remote,,RemoteOK
+N/A,Senior Associate Finance,Pearl,Not specified,"support, testing, accounting, financial, finance, bank, senior, excel, executive, non tech",Senior,Remote,India,RemoteOK
+N/A,Program Manager Major Deployments,Skydio,Not specified,"manager, design, technical, support, software, travel, financial, leader, management, lead, senior, operational, analytics, health, engineering, full-time, digital nomad",Entry,Remote,,RemoteOK
+N/A,Senior Manager of Revenue Cycle Management,AnswersNow Inc,Not specified,"manager, financial, finance, management, lead, senior, operations, operational, healthcare, executive, non tech",Entry,Remote,,RemoteOK
+N/A,Principal Technologist Office of the CTO,Clover Health,Not specified,"cto, ceo, technical, voice, operations, operational, medical",Senior,Remote,USA,RemoteOK
+N/A,Account Director,MERGE,Not specified,"director, leader, management, lead, senior, marketing, health, healthcare, non tech",Senior,Remote,Remote,RemoteOK
+N/A,Customer Program Manager,Nexxa.AI,Not specified,"manager, jira, training, consulting, cto, technical, qa, management, operations, operational, engineering",Mid,Remote,Sunnyvale,RemoteOK
+N/A,Data Scientist Claim Experience Analytics,Extend,Not specified,"operational, analytics, engineering",Mid,Remote,"Remote, US",RemoteOK
+N/A,Senior Software Engineer Full Stack,Grow Therapy,Not specified,"software, system, technical, senior, healthcare, engineer, engineering",Entry,Remote,"New York, NY",RemoteOK
