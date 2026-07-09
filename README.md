@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔎 Shaghla — Automated Tech Job Intelligence Platform
+# 🔎 Shoghla — Automated Tech Job Intelligence Platform
 
-*One dashboard for every job listing worth applying to.*
+*Every job worth applying to, in one place*
 
 ---
 
@@ -29,7 +29,7 @@
 
 > **DEPI Graduation Project — Data Engineering Track**
 
-**Shaghla** is an end-to-end automated data pipeline that aggregates tech job postings from multiple platforms across the Arab region, processes them through a Bronze → Silver → Gold medallion architecture on **Databricks**, and delivers results through a live web application, a daily **Telegram Bot**, and a **Power BI** analytics dashboard.
+**Shoghla** is an end-to-end automated data pipeline that aggregates tech job postings from multiple platforms across the Arab region, processes them through a Bronze → Silver → Gold medallion architecture on **Databricks**, and delivers results through a live web application, a daily **Telegram Bot**, and a **Power BI** analytics dashboard.
 
 ---
 
@@ -45,7 +45,7 @@ Tech job seekers in Egypt and across the Arab region face a fragmented market:
 - **No proactive alerts** — candidates must always pull listings rather than having them pushed.
 - **No market analytics** — understanding in-demand skills or top hiring companies requires tedious manual aggregation.
 
-### The Solution: Shaghla
+### The Solution: Shoghla
 
 We built a fully automated data engineering pipeline that transforms scattered job data into actionable intelligence:
 
@@ -127,7 +127,7 @@ NHA-4-085/
 |---|---|
 | **Scraping** | Python, Selenium + ChromeDriver, `python-jobspy`, `requests`, `BeautifulSoup`, `pandas`, `tqdm` |
 | **ETL / Processing** | Apache Spark (PySpark), Databricks Notebooks, Delta Lake |
-| **Storage** | Databricks Unity Catalog (`depi_project.philo_files.*`), Delta Tables, Databricks Volumes |
+| **Storage** | Databricks Unity Catalog , Delta Tables, Databricks Volumes |
 | **Web App** | React 19, TanStack Start (SSR), TanStack Router, TypeScript, Tailwind CSS v4, Radix UI, shadcn/ui, Recharts |
 | **Auth** | Supabase Auth — Google OAuth (PKCE flow), `@supabase/ssr` |
 | **CV Parsing** | `pdfjs-dist` (PDF), `mammoth` (DOCX), custom keyword engine — fully local, no external AI |
@@ -139,85 +139,7 @@ NHA-4-085/
 
 ---
 
-## ⚙️ How to Run
 
-### Prerequisites
-
-- Python 3.11+
-- Databricks workspace with Unity Catalog
-- Supabase project (Google Auth enabled)
-- Vercel account
-- Bun (or npm / pnpm)
-
-### 1. Run the Scrapers
-
-```bash
-# LinkedIn + Indeed (Databricks notebook)
-# Open ETL/LinkedIn+Indeed_Scrapper.ipynb in Databricks and run all cells
-
-# Wuzzuf (local)
-pip install selenium pandas
-python Scraping/Wazzuf_scrapper.py
-
-# Remotive + RemoteOK (local)
-pip install requests beautifulsoup4 pandas
-python Scraping/Remotive_Scrapper.py
-```
-
-### 2. Run the ETL Pipeline (Databricks)
-
-Run the three notebooks in order inside a Databricks workflow:
-
-```
-ETL/Bronze_Layer.ipynb  →  ETL/Silver_Layer.ipynb  →  ETL/Gold_layer.ipynb
-```
-
-> The Bronze scraper uses a checkpoint file in a Databricks Volume — if interrupted, it resumes from where it left off.
-
-### 3. Start the Telegram Bot (Databricks)
-
-```bash
-# Open TelegramBot/Telegram Bot.ipynb in Databricks and run all cells
-# The bot reads from the Silver table, filters against the sent-jobs ledger,
-# and pushes up to 200 new jobs to @Shoghla1
-```
-
-### 4. Deploy the Web App
-
-```bash
-# Clone and install
-git clone https://github.com/your-org/NHA-4-085.git
-cd NHA-4-085/Shogla_App
-bun install        # or: npm install
-
-# Configure environment
-cp .env.example .env
-# Fill in SUPABASE_URL, SUPABASE_ANON_KEY, DATABRICKS_HOST, DATABRICKS_TOKEN
-
-# Run locally
-bun run dev        # http://localhost:3000
-
-# Deploy to Vercel
-# Push to GitHub → Import in Vercel → Add env vars → Deploy
-# Vercel auto-detects TanStack Start (Nitro) — no extra config needed
-```
-
-Full deployment guide: [`Shogla_App/DEPLOYMENT.md`](Shogla_App/DEPLOYMENT.md)
-
-### 5. Environment Variables
-
-| Variable | Purpose |
-|---|---|
-| `SUPABASE_URL` | Supabase project URL (server) |
-| `SUPABASE_ANON_KEY` | Supabase anon key (server) |
-| `VITE_SUPABASE_URL` | Supabase project URL (browser) |
-| `VITE_SUPABASE_ANON_KEY` | Supabase anon key (browser) |
-| `DATABRICKS_HOST` | Workspace hostname (no `https://`) |
-| `DATABRICKS_TOKEN` | Personal access token or OAuth token |
-| `DATABRICKS_WAREHOUSE_ID` | SQL warehouse ID *(optional)* |
-| `DATABRICKS_JOBS_TABLE` | Jobs table override *(optional)* |
-
----
 
 ## 📊 Data Pipeline Details
 
@@ -268,27 +190,18 @@ Full deployment guide: [`Shogla_App/DEPLOYMENT.md`](Shogla_App/DEPLOYMENT.md)
 
 | Name | Contributions |
 |---|---|
-| **Member 1** | ETL Pipeline, Bronze / Silver / Gold layers, Databricks |
-| **Member 2** | Web Scraping (LinkedIn + Indeed, Wuzzuf, Remotive) |
-| **Member 3** | Web Application (TanStack Start, React, Supabase Auth) |
-| **Member 4** | Telegram Bot, scheduling, pipeline automation |
-| **Member 5** | Power BI Dashboard, data visualization, analytics |
+| **Abdelrahman Balbaa** | ETL Pipeline, Bronze / Silver / Gold layers, Databricks / WebApp / Presentation  |
+| **Philopater Amir** | Web Scraping (LinkedIn + Indeed) / Telegram Bot |
+| **Farah Khater** |  Web Scraping (Remotive + RemoteOk) / PowerBI |
+| **Hana ELgamal** | Web Scraping (Wazzuf) |
+| **Abdelrahman Hamdy** | Documentation |
 
-> *Update this table with actual names and roles.*
 
----
-
-## 📄 License
-
-This project is protected under an **All Rights Reserved** license.
-No part of this repository may be copied, modified, or distributed without permission.
 
 ---
+
 
 <div align="center">
 
-**Shaghla** · Built with ❤️ for the Arab tech job market
-
-[![Telegram](https://img.shields.io/badge/Join_Channel-@Shoghla1-26A5E4?logo=telegram)](https://t.me/Shoghla1)
 
 </div>
