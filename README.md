@@ -2,6 +2,8 @@
   <img src="./Screenshots/shoghla-logo1.png" alt="Shoghla Logo" width="50%"/>
 
   [![Live App](https://img.shields.io/badge/🌍_Live_App-shoghla.vercel.app-0070f3?style=for-the-badge)](https://shoghla.vercel.app/)
+  [![Telegram](https://img.shields.io/badge/Join_Channel-@Shoghla1-26A5E4?logo=telegram&style=for-the-badge)](https://t.me/Shoghla1)
+
 
 # 🔎 Shoghla — Automated Tech Job Intelligence Platform
 
