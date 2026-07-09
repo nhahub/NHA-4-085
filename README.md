@@ -1,5 +1,7 @@
 <div align="center">
-
+<div align="center">
+  <img src="./Screenshots/shoghla-logo.png" alt="Shaghla ETL Pipeline — Bronze, Silver, Gold layers" width="100%"/>
+</div>
 # 🔎 Shoghla — Automated Tech Job Intelligence Platform
 
 *Every job worth applying to, in one place*
