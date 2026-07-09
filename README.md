@@ -1,7 +1,8 @@
 <div align="center">
-<div align="center">
-  <img src="./Screenshots/shoghla-logo1.png" alt="Shaghla ETL Pipeline — Bronze, Silver, Gold layers" width="50%"/>
-</div>
+  <img src="./Screenshots/shoghla-logo1.png" alt="Shoghla Logo" width="50%"/>
+
+  [![Live App](https://img.shields.io/badge/🌍_Live_App-shoghla.vercel.app-0070f3?style=for-the-badge)](https://shoghla.vercel.app/)
+
 # 🔎 Shoghla — Automated Tech Job Intelligence Platform
 
 *Every job worth applying to, in one place*
@@ -76,7 +77,7 @@ We built a fully automated data engineering pipeline that transforms scattered j
 ## 🏗️ ETL Pipeline Architecture
 
 <div align="center">
-  <img src="./Screenshots/etl_pipeline_diagram.png" alt="Shaghla ETL Pipeline — Bronze, Silver, Gold layers" width="100%"/>
+  <img src="./Screenshots/etl_pipeline_diagram.png" alt="Shoghla ETL Pipeline — Bronze, Silver, Gold layers" width="100%"/>
 </div>
 
 ---
@@ -129,7 +130,7 @@ NHA-4-085/
 |---|---|
 | **Scraping** | Python, Selenium + ChromeDriver, `python-jobspy`, `requests`, `BeautifulSoup`, `pandas`, `tqdm` |
 | **ETL / Processing** | Apache Spark (PySpark), Databricks Notebooks, Delta Lake |
-| **Storage** | Databricks Unity Catalog , Delta Tables, Databricks Volumes |
+| **Storage** | Databricks Unity Catalog, Delta Tables, Databricks Volumes |
 | **Web App** | React 19, TanStack Start (SSR), TanStack Router, TypeScript, Tailwind CSS v4, Radix UI, shadcn/ui, Recharts |
 | **Auth** | Supabase Auth — Google OAuth (PKCE flow), `@supabase/ssr` |
 | **CV Parsing** | `pdfjs-dist` (PDF), `mammoth` (DOCX), custom keyword engine — fully local, no external AI |
@@ -140,8 +141,6 @@ NHA-4-085/
 | **Code Quality** | ESLint, Prettier, TypeScript strict mode |
 
 ---
-
-
 
 ## 📊 Data Pipeline Details
 
@@ -192,18 +191,17 @@ NHA-4-085/
 
 | Name | Contributions |
 |---|---|
-| **Abdelrahman Balbaa** | ETL Pipeline, Bronze / Silver / Gold layers, Databricks automation / WebApp / Presentation  |
-| **Philopater Amir** | Web Scraping (LinkedIn + Indeed) / Telegram Bot |
-| **Farah Khater** |  Web Scraping (Remotive + RemoteOk) / PowerBI |
-| **Hana ELgamal** | Web Scraping (Wazzuf) |
+| **Abdelrahman Balbaa** | ETL Pipeline, Bronze / Silver / Gold layers, Databricks automation, Web App, Presentation |
+| **Philopater Amir** | Web Scraping (LinkedIn + Indeed), Telegram Bot |
+| **Farah Khater** | Web Scraping (Remotive + RemoteOK), Power BI |
+| **Hana ELgamal** | Web Scraping (Wuzzuf) |
 | **Abdelrahman Hamdy** | Documentation |
-
-
 
 ---
 
-
 <div align="center">
 
+[![Live App](https://img.shields.io/badge/🌍_Live_App-shoghla.vercel.app-0070f3?style=for-the-badge)](https://shoghla.vercel.app/)
+[![Telegram](https://img.shields.io/badge/Join_Channel-@Shoghla1-26A5E4?logo=telegram&style=for-the-badge)](https://t.me/Shoghla1)
 
 </div>
