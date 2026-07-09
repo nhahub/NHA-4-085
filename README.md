@@ -192,7 +192,7 @@ NHA-4-085/
 
 | Name | Contributions |
 |---|---|
-| **Abdelrahman Balbaa** | ETL Pipeline, Bronze / Silver / Gold layers, Databricks / WebApp / Presentation  |
+| **Abdelrahman Balbaa** | ETL Pipeline, Bronze / Silver / Gold layers, Databricks automation / WebApp / Presentation  |
 | **Philopater Amir** | Web Scraping (LinkedIn + Indeed) / Telegram Bot |
 | **Farah Khater** |  Web Scraping (Remotive + RemoteOk) / PowerBI |
 | **Hana ELgamal** | Web Scraping (Wazzuf) |
